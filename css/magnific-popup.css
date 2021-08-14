@@ -356,8 +356,6 @@ img.mfp-img {
     padding-right: 6px; } 
   .flex-container {
     flex-direction: column;
-  }
-  .profile-image {
-    margin-top: 20px;
+    padding-top: 20px;
   }
 }
