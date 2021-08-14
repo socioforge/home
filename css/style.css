@@ -430,7 +430,6 @@ label {
 }
 .flex-container {
 	display: flex;
-	padding-top:20px;
 }
 
 .flex-child {
