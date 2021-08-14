@@ -353,4 +353,8 @@ img.mfp-img {
     transform-origin: 100%; }
   .mfp-container {
     padding-left: 6px;
-    padding-right: 6px; } }
+    padding-right: 6px; } 
+  .flex-container {
+    flex-direction: column;
+  }
+}
