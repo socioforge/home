@@ -357,4 +357,7 @@ img.mfp-img {
   .flex-container {
     flex-direction: column;
   }
+  .flex-child {
+    padding-top:20px;
+  }
 }
