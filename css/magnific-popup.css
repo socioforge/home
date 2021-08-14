@@ -358,6 +358,6 @@ img.mfp-img {
     flex-direction: column;
   }
   .flex-child {
-    padding-top:20px;
+    margin-top:20px;
   }
 }
