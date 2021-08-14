@@ -310,7 +310,7 @@ label {
 	left: 0;
 	z-index: 9;
 	right: 0;
-	background-color: rgba(255, 255, 255, 1);
+	background-color: #fff;
 	transition: .3s
 }
 .scroll-header {
